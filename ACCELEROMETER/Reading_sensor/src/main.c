@@ -1,4 +1,4 @@
-/* MPU6060 Accelerometer sensor reading
+/* MPU6050 Accelerometer sensor reading
  * connect with ubx_bmd345eval_nrf52840 */
 
 
